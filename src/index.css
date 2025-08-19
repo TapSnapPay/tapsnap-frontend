@@ -1,0 +1,4 @@
+﻿@import "tailwindcss";
+
+/* tiny sanity check so you see something */
+body { padding: 16px; }
